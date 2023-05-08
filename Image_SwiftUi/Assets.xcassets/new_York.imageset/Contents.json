@@ -13,7 +13,7 @@
           "top" : 20
         },
         "center" : {
-          "height" : 20,
+          "height" : 30,
           "mode" : "stretch"
         },
         "mode" : "3-part-vertical"

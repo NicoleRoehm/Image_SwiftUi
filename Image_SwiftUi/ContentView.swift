@@ -11,13 +11,14 @@ struct ContentView: View {
     var body: some View {
         VStack {
             CircleImage()
+            
             Text("New York, USA")                .font(.title)
                 .foregroundColor(.blue)
                 Text("Times Square")
-                .font(.subheadline)
                 .foregroundColor(.teal)
             
         }
+    
     }
 }
 
