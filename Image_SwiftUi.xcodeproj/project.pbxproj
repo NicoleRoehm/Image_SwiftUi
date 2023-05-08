@@ -45,7 +45,7 @@
 		091480752A09019100C450B1 /* Image_SwiftUiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Image_SwiftUiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		091480792A09019100C450B1 /* Image_SwiftUiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_SwiftUiUITests.swift; sourceTree = "<group>"; };
 		0914807B2A09019100C450B1 /* Image_SwiftUiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_SwiftUiUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		0914808A2A09053A00C450B1 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		0914808A2A09053A00C450B1 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; tabWidth = 4; wrapsLines = 1; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

@@ -11,12 +11,13 @@ struct CircleImage: View {
     var body: some View {
         Image("new_York")
             .clipShape(Circle())
-            .overlay{
+                       .overlay{
                 Circle().stroke(.blue,
                 lineWidth: 4)
+                
             }
             .shadow(radius: 25)
-    }
+                }
 }
 
 struct CircleImage_Previews: PreviewProvider {
