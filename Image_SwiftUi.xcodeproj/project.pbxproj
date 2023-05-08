@@ -14,6 +14,7 @@
 		091480702A09019100C450B1 /* Image_SwiftUiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0914806F2A09019100C450B1 /* Image_SwiftUiTests.swift */; };
 		0914807A2A09019100C450B1 /* Image_SwiftUiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091480792A09019100C450B1 /* Image_SwiftUiUITests.swift */; };
 		0914807C2A09019100C450B1 /* Image_SwiftUiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0914807B2A09019100C450B1 /* Image_SwiftUiUITestsLaunchTests.swift */; };
+		0914808B2A09053A00C450B1 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0914808A2A09053A00C450B1 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		091480752A09019100C450B1 /* Image_SwiftUiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Image_SwiftUiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		091480792A09019100C450B1 /* Image_SwiftUiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_SwiftUiUITests.swift; sourceTree = "<group>"; };
 		0914807B2A09019100C450B1 /* Image_SwiftUiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_SwiftUiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0914808A2A09053A00C450B1 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				091480602A09019000C450B1 /* ContentView.swift */,
 				091480622A09019100C450B1 /* Assets.xcassets */,
 				091480642A09019100C450B1 /* Preview Content */,
+				0914808A2A09053A00C450B1 /* CircleImage.swift */,
 			);
 			path = Image_SwiftUi;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				091480612A09019000C450B1 /* ContentView.swift in Sources */,
 				0914805F2A09019000C450B1 /* Image_SwiftUiApp.swift in Sources */,
+				0914808B2A09053A00C450B1 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
